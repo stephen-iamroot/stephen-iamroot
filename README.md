@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Stephen and i am currently based in the North-East of England. My current professional role is providing Managed IT services and designing solutions that go into place in a wide range of small and medium-sized businesses. I have a keen interest in information security and its application to small and medium enterprises.
+I'm Stephen and i am currently based in the North-East of England. 
+
+My current professional role is providing Managed IT services and designing solutions that go into place in a wide range of small and medium-sized businesses. I have a keen interest in information security and its application to small and medium enterprises.
 
 - 🔭 I’m currently working on ... CIPP.
 - 🌱 I’m currently learning ... juggle all of lifes complexities.
