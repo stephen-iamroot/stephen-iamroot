@@ -25,7 +25,7 @@ My current professional role is Product Lead for RMM at NinjaOne. I have a keen 
 - 💬 Ask me about ... Information Security, Governance, Rum, ISO27001, and ISO20000. Possibly not in that order.
 - 📫 How to reach me: ... 
   -   @steven_iamroot on twitter
-  -   FSociety on: WinAdmins, MSPGeek, MSPs in the UK, ITPoolParty, MSPs R Us and CyberDrain.
+  -   FSociety on: WinAdmins, MSPGeek, MSPs in the UK, NinjaOne, MSPs R Us and CyberDrain.
 
 I started my professional life volunteering inside a local non-profit which had been exploited by external IT providers, fleeced by so-called experts, and left in the lurch of service level agreements. Witness to these horrors organisations were put through, it became my personal mission to provide first-class, honest and ethical solutions to information problems. Over the last decade, i have moved from volunteering 3500 hours of my personal time within a non-profit to supporting and developing dozens of organisations across the UK in a range of sectors from Charitable to Public sector.
 
